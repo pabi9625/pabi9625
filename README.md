@@ -4,3 +4,4 @@ I am interested in machine learning, with a focus on building practical, researc
 
 - LinkedIn: https://www.linkedin.com/in/kumarathass-pabilan/
 - Portfolio: https://pabilan.dev
+- Email: pabilankumarathass@gmail.com
