@@ -39,11 +39,4 @@ I am a third-year Computer Science undergraduate at the University of Colombo Sc
   </tr>
 </table>
 
-## GitHub Activity
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=pabi9625&theme=github-dark-blue&hide_border=true" alt="GitHub streak" />
-</p>
-<p align="center">
-  <img src="https://ghchart.rshah.org/2ea043/pabi9625" alt="Contribution chart" width="100%" />
-</p>
