@@ -41,7 +41,9 @@ I am a third-year Computer Science undergraduate at the University of Colombo Sc
 
 ## GitHub Activity
 
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=pabi9625&show_icons=true&hide_border=true&theme=github_dark" height="160" alt="GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pabi9625&layout=compact&hide_border=true&theme=github_dark" height="160" alt="Top languages" />
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=pabi9625&theme=github-dark-blue&hide_border=true" alt="GitHub streak" />
+</p>
+<p align="center">
+  <img src="https://ghchart.rshah.org/2ea043/pabi9625" alt="Contribution chart" width="100%" />
 </p>
